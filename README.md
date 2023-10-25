@@ -38,5 +38,7 @@ def sum(a,b):
 ## 중제목
 ### 소제목
 
+---
+
 ![뉴진스](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NewJeans_X_OLENS_1_%28cropped%29.jpg/250px-NewJeans_X_OLENS_1_%28cropped%29.jpg)
 
