@@ -26,7 +26,7 @@ ___진하게 기울기___
    2. 그렇구만
       1. 그렇네
 2. 그렇구만
-   3. 그렇구만
+   1. 그렇구만
       1. 이렇게 되는구만
 
 ```python
@@ -37,3 +37,5 @@ def sum(a,b):
 
 ## 중제목
 ### 소제목
+
+![뉴진스](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NewJeans_X_OLENS_1_%28cropped%29.jpg/250px-NewJeans_X_OLENS_1_%28cropped%29.jpg)
